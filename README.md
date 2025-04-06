@@ -1,1 +1,1 @@
-# Project
+JavaScript -Guess Number project
