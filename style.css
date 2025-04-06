@@ -1,0 +1,24 @@
+input{
+    margin: 1rem;
+    font-size: 1.5rem;
+    width: 15rem;   
+}
+
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.startgame:disabled
+{
+    cursor: not-allowed;
+}
+
+button
+{
+    padding: 10px 16px;
+    background-color: cyan;
+    border: 1px solid gray;
+    border-radius: 4px;
+    cursor: pointer;
+}
