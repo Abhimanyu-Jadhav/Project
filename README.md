@@ -1,1 +1,0 @@
-JavaScript -Guess Number project
